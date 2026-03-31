@@ -7,7 +7,7 @@ int main(){
 
     cout<<"Masukkan nilai Matematika = ";
     cin>>nilM;
-    cout<<"Masukkan nilai Bahasa Inggris = "; 
+    cout<<"Masukkan nilai Bahasa Inggris = ";  
     cin>>nilB; 
  
     rerata = (nilB+nilM)/2;
